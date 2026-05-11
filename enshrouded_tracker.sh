@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- CONFIGURATION ---
-LOG_FILE="enshrouded_server.log" 
+LOG_FILE="logs/enshrouded_server.log" 
 MSG_ID_FILE="discord_message_id.txt"
 LIST_FILE="current_players.tmp"
 FLAG_FILE="shutdown.flag"
