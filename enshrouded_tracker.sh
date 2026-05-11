@@ -13,7 +13,7 @@ LOG_WEBHOOK="${LOG_WEBHOOK}"
 
 # --- BRANDING ---
 BOT_NAME="Skye Serve Enshrouded Monitor"
-BOT_LOGO="https://raw.githubusercontent.com/skye-serve/Soulmask-Egg-Configs/refs/heads/main/78691e4f-a6fd-4d12-ae6d-218f3a9c705c.jpg" 
+BOT_LOGO="https://raw.githubusercontent.com/skye-serve/Enshrouded/refs/heads/main/EnshroudedBackground.png" 
 
 # --- GHOST KILLER ---
 for pid in $(pgrep -f tracker.sh); do
